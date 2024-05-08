@@ -1,0 +1,241 @@
+{
+    "data": {
+        "projectRows": [
+            {
+                "defaultFields": {
+                    "displayId": "2024-1000010",
+                    "displayName": "Test_03",
+                    "status": "To Do",
+                    "lead": "Mark Juul Leo Bynens",
+                    "priority": "-",
+                    "createdBy": "Mark Juul Leo Bynens",
+                    "startDate": "2024-04-09T00:00:00.000Z",
+                    "endDate": "2024-04-11T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "-"
+                },
+                "customFields": {
+                    "Activity": "Providing Training",
+                    "TA": "CVMR-PH",
+                    "IDP Number": "11111",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "Small Molecule",
+                    "Development Phase": "H2L/Lead Generation",
+                    "Scientist": "Mark Juul Leo Bynens",
+                    "Statistician Site": "EU-NL",
+                    "Location of Materials": "TEST",
+                    "External Partner": "Pharmalex",
+                    "Focus Area": "Invitro-data",
+                    "Notes": "TEST",
+                    "Data Received": "N/A",
+                    "Date Started": "3",
+                    "Date Completed": "N/A",
+                    "Report Generated": "Yes"
+                }
+            },
+            {
+                "defaultFields": {
+                    "displayId": "2023-1000775",
+                    "displayName": "Colabs",
+                    "status": "In Progress",
+                    "lead": "Scope User",
+                    "priority": "Medium",
+                    "startDate": "2023-10-10T00:00:00.000Z",
+                    "endDate": "2023-10-31T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "-"
+                },
+                "customFields": {
+                    "Activity": "Data Analysis & Reporting\r\n",
+                    "TA": "ID",
+                    "IDP Number": "123",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "NA",
+                    "Development Phase": "NA",
+                    "Scientist": "Krishna Yeturu",
+                    "Statistician Site": "AP-CH-SH",
+                    "Location of Materials": "hyderabad",
+                    "External Partner": "Pharmalex (ARLENDA)",
+                    "Focus Area": " In-vivo Bioassay",
+                    "Notes": "-",
+                    "Data Received": "07/29/2023",
+                    "Date Started": "07/21/2023",
+                    "Date Completed": "07/31/2023",
+                    "Report Generated": "Yes",
+                    "Project Length": "Short Term (<2 weeks)",
+                    "DAS/PAS": " Mood"
+                }
+            },
+            {
+                "defaultFields": {
+                    "displayId": "2023-1000742",
+                    "displayName": "Scope Development Testing TAR File",
+                    "status": "In Progress",
+                    "lead": "Huma Farheen",
+                    "priority": "Medium",
+                    "startDate": "2023-07-21T00:00:00.000Z",
+                    "endDate": "2023-07-29T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "https://awsacgnval000s.jnj.com/root/2023-1000742-scope-development-testing-tar-file"
+                },
+                "customFields": {
+                    "Activity": "Data Analysis & Reporting\r\n",
+                    "TA": "ID",
+                    "IDP Number": "123",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "NA",
+                    "Development Phase": "NA",
+                    "Scientist": "Krishna Yeturu",
+                    "Statistician Site": "AP-CH-SH",
+                    "Location of Materials": "hyderabad",
+                    "External Partner": "Pharmalex (ARLENDA)",
+                    "Focus Area": " In-vivo Bioassay",
+                    "Notes": "-",
+                    "Data Received": "07/29/2023",
+                    "Date Started": "07/21/2023",
+                    "Date Completed": "07/31/2023",
+                    "Report Generated": "Yes",
+                    "Project Length": "Short Term (<2 weeks)",
+                    "DAS/PAS": " Mood"
+                }
+            },
+            {
+                "defaultFields": {
+                    "displayId": "2023-1000727",
+                    "displayName": "Test 4",
+                    "status": "In Progress",
+                    "lead": "Marjolein Crabbe",
+                    "priority": "Medium",
+                    "createdBy": "Marjolein Crabbe",
+                    "startDate": "2023-06-19T00:00:00.000Z",
+                    "endDate": "2023-08-31T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "https://awsacgnval000s.jnj.com/root/2023-1000727-test-4"
+                },
+                "customFields": {
+                    "Activity": "Experimental Design\r\n",
+                    "TA": "NA",
+                    "IDP Number": "ABCD",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "NA",
+                    "Development Phase": "NA",
+                    "Scientist": "Olivia GOETHALS",
+                    "Statistician Site": "EU-BE",
+                    "Location of Materials": "TBA",
+                    "External Partner": "N/A",
+                    "Focus Area": "Animal Study",
+                    "Notes": "-",
+                    "Data Received": "N/A",
+                    "Date Started": "N/A",
+                    "Date Completed": "N/A",
+                    "Report Generated": "Yes",
+                    "Project Length": "Short Term (<2 weeks)",
+                    "DAS/PAS": "NA"
+                }
+            },
+            {
+                "defaultFields": {
+                    "displayId": "2023-1000726",
+                    "displayName": "Test 3",
+                    "status": "In Progress",
+                    "lead": "Ewoud De Troyer",
+                    "priority": "High",
+                    "createdBy": "Marjolein Crabbe",
+                    "startDate": "2023-06-19T00:00:00.000Z",
+                    "endDate": "2023-07-31T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "https://awsacgnval000s.jnj.com/root/2023-1000726-test-3"
+                },
+                "customFields": {
+                    "Activity": "Data Analysis & Reporting\r\n",
+                    "TA": "NA",
+                    "IDP Number": "ABCD",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "NA",
+                    "Development Phase": "NA",
+                    "Scientist": "Ellen VAN DAMME",
+                    "Statistician Site": "EU-BE",
+                    "Location of Materials": "TBA",
+                    "External Partner": "N/A",
+                    "Focus Area": "Biomarker/Correlates of Protection",
+                    "Notes": "-",
+                    "Data Received": "N/A",
+                    "Date Started": "N/A",
+                    "Date Completed": "N/A",
+                    "Report Generated": "Yes",
+                    "Project Length": "\r\nLong Term (>1 month)\r\n",
+                    "DAS/PAS": "NA"
+                }
+            },
+            {
+                "defaultFields": {
+                    "displayId": "2023-1000725",
+                    "displayName": "Test 2",
+                    "status": "To Do",
+                    "lead": "Marjolein Crabbe",
+                    "priority": "Medium",
+                    "createdBy": "Marjolein Crabbe",
+                    "startDate": "2023-06-19T00:00:00.000Z",
+                    "endDate": "2023-12-31T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "https://awsacgnval000s.jnj.com/root/2023-1000725-test-2"
+                },
+                "customFields": {
+                    "Activity": "Data Analysis & Reporting\r\n",
+                    "TA": "NA",
+                    "IDP Number": "ABCD",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "NA",
+                    "Development Phase": "NA",
+                    "Scientist": "Ellen VAN GULCK",
+                    "Statistician Site": "EU-BE",
+                    "Location of Materials": "TBA",
+                    "External Partner": "N/A",
+                    "Focus Area": "Animal Study",
+                    "Notes": "-",
+                    "Data Received": "N/A",
+                    "Date Started": "N/A",
+                    "Date Completed": "N/A",
+                    "Report Generated": "Yes",
+                    "Project Length": "\r\nMedium Term (2-4 weeks)",
+                    "DAS/PAS": "NA"
+                }
+            },
+            {
+                "defaultFields": {
+                    "displayId": "2023-1000724",
+                    "displayName": "Test 1",
+                    "status": "Completed",
+                    "lead": "Marjolein Crabbe",
+                    "priority": "Medium",
+                    "createdBy": "Marjolein Crabbe",
+                    "startDate": "2023-06-19T00:00:00.000Z",
+                    "endDate": "2023-08-31T00:00:00.000Z",
+                    "completedAt": "2023-06-19T00:00:00.000Z",
+                    "collaborators": "scope-administrators",
+                    "gitlab": "https://awsacgnval000s.jnj.com/root/2023-1000724-test-1"
+                },
+                "customFields": {
+                    "Activity": "Data Analysis & Reporting\r\n",
+                    "TA": "NA",
+                    "IDP Number": "1234",
+                    "Compound Name or Number": "No Compound (No Compound)",
+                    "Product Type": "NA",
+                    "Development Phase": "NA",
+                    "Scientist": "KIM THYS",
+                    "Statistician Site": "EU-BE",
+                    "Location of Materials": "TBA",
+                    "External Partner": "N/A",
+                    "Focus Area": "Animal Study",
+                    "Notes": "-",
+                    "Data Received": "N/A",
+                    "Date Started": "N/A",
+                    "Date Completed": "N/A",
+                    "Report Generated": "Yes",
+                    "Project Length": "\r\nMedium Term (2-4 weeks)",
+                    "DAS/PAS": "NA"
+                }
+            }
+        ]
+    }
+}
